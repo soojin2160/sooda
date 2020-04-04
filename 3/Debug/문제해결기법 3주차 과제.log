@@ -1,0 +1,5 @@
+﻿  문해기3 - 6번.cpp
+C:\Users\신수진\source\repos\문제해결기법 3주차 과제\문제해결기법 3주차 과제\문해기3 - 6번.cpp(7,15): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+C:\Users\신수진\source\repos\문제해결기법 3주차 과제\문제해결기법 3주차 과제\문해기3 - 6번.cpp(6,9): warning C4101: 'both' :참조되지 않은 지역 변수입니다.
+C:\Users\신수진\source\repos\문제해결기법 3주차 과제\문제해결기법 3주차 과제\문해기3 - 6번.cpp(6,15): warning C4101: 'none' :참조되지 않은 지역 변수입니다.
+  문제해결기법 3주차 과제.vcxproj -> C:\Users\신수진\source\repos\문제해결기법 3주차 과제\Debug\문제해결기법 3주차 과제.exe
